@@ -4,9 +4,12 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/appandcontest.java</file>
+            <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/marcha1.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/integerSequence.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/campOrNot.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/prepInternational.java</file>
+            <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/codejam4.java</file>
+            <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/Maina.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/mahmoudEvenOdd.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/collatz.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/primeSum2.java</file>
@@ -21,7 +24,9 @@
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/fruits.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/primeCount.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/buildContest1.java</file>
+            <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/loveforbook.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/newclas.java</file>
+            <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/median.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/comment.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/gameSTring.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/divisorTwo.java</file>
@@ -34,13 +39,16 @@
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/niceGarland.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/digitSequence.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/primeSum.java</file>
+            <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/PCJ18B.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/numberDivision.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/plant.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/Exception.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/Main.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/middleContest.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/gameStringa.java</file>
+            <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/lab.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/buildAcontest.java</file>
+            <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/factprob.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/digitalRoot.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/parity.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/pleasantWalk.java</file>
@@ -51,6 +59,7 @@
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/findDivisible.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/maxcontrest.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/LunarNewYearandCross.java</file>
+            <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/book.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/sashatrip.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/arrayKcol.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/sashaMAgnetic.java</file>
@@ -59,8 +68,11 @@
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/anotherConstruction.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/brutaility.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/kvass.java</file>
+            <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/codejam2.java</file>
+            <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/codeJam1.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/cake.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/arraypartition.java</file>
+            <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/codejam3.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/game23.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/waterBuying.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/Solution_lab.java</file>
@@ -69,6 +81,7 @@
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/arrayStable.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/sasharelax.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/WrongSub.java</file>
+            <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/dijiksta.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/mindbendingPattern.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/tomRiddle.java</file>
             <file>file:/C:/Users/janki/Documents/NetBeansProjects/Eularproject/src/TreeNode.java</file>
