@@ -2,7 +2,7 @@ import java.io.InputStreamReader;
 import java.util.*; 
 public class  loveforbook 
 { 
-    static String lcs(String X, String Y, int m, int n) 
+    private static String lcs(String X, String Y, int m, int n) 
     { 
         InputStreamReader bf = new InputStreamReader(System.in);
         int[][] L = new int[m+1][n+1]; 
